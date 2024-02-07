@@ -1,0 +1,10 @@
+Make A New folder and name it whatever you want.
+In that folder copy the following files:
+Admin.txt
+BookingDetails.txt
+BookingDetails.csv
+lastDate.txt
+
+
+For Login and Password -> Read Admin file
+sample username and password ->  admin 1234
